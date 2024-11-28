@@ -14,7 +14,7 @@ public class SarafgnGit_2024258 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("My name is Sara. My student ID is 2024258.");
     }
     
 }
